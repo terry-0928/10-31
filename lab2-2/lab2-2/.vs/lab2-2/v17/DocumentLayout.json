@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\10-31\\lab2-2\\lab2-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C4EC5F-9E0D-4373-9C03-C26AA0DD8CC7}|lab2-2\\lab2-2.vcxproj|C:\\10-31\\lab2-2\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\10-31\\lab2-2\\source\\main.c",
+              "RelativeDocumentMoniker": "..\\source\\main.c",
+              "ToolTip": "C:\\10-31\\lab2-2\\source\\main.c",
+              "RelativeToolTip": "..\\source\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-31T12:41:42.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
